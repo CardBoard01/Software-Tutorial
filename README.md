@@ -1,2 +1,2 @@
 # tutorial
-source code madde in the process of Software Tutorial
+source code made in the process of Software Tutorial
