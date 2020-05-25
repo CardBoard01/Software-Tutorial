@@ -1,2 +1,2 @@
-# tutorial
-source code made in the process of Software Tutorial
+# Software-Tutorial
+source code I made in the process of Software Tutorial
